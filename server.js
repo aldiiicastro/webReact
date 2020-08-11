@@ -32,7 +32,7 @@ app.use('/', video_routes);
 
 mongoose.set('useFindAndModify', false);
 mongoose.Promise = global.Promise;
-mongoose.connect('mongodb+srv://aldanacastro:2534aldi@cluster0.x9ovj.mongodb.net/gastiWEB?retryWrites=true&w=majority', {useNewUrlParser: true, useUnifiedTopology: true})
+mongoose.connect('mongodb://localhost:27017/', {useNewUrlParser: true, useUnifiedTopology: true})
     .then(() => {   
         console.log('La conexion a la base de datos se ha realizado bien');
         //Crear servidor y escuchar peiticones    
