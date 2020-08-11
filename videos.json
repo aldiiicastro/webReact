@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "5f2e09c9d7727e5414c7ef56"
+  },
+  "title": "DECONSTRUCCION",
+  "image": "1iuhCHug8kJp2RxpC2FAbVq_.png",
+  "video": "https://www.youtube.com/embed/videoseries?list=PL3FTcnomLJzmp7kq7-1KHDq1gQ6pDy99R",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0a49d7727e5414c7ef57"
+  },
+  "title": "FLOREZCAN",
+  "image": "tclbQXdJTAqhrKrOkzmfaA5E.png",
+  "video": "https://www.youtube.com/embed/-RzDH7IBXTg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0a72d7727e5414c7ef58"
+  },
+  "title": "BARRA LIBRE",
+  "image": "KTfCZmBEF9ZHQ1ioCdb5z1S2.png",
+  "video": "https://www.youtube.com/embed/2DpmLdguees",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0a8dd7727e5414c7ef59"
+  },
+  "title": "DE MI LADO",
+  "image": "lU6UvL2s5n5bxUaCIqd8oP1a.jpg",
+  "video": "https://www.youtube.com/embed/gH1ap2YqgwY",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0ab6d7727e5414c7ef5a"
+  },
+  "title": "PRENDIDO",
+  "image": "ADv1U8wgnvOhLra6VFZEie--.jpg",
+  "video": "https://www.youtube.com/embed/mrnG5k-446o",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0ad6d7727e5414c7ef5b"
+  },
+  "title": "SANTO",
+  "image": "j_7x41hKSwJPyfTiPJKOf13N.jpg",
+  "video": "https://www.youtube.com/embed/1QhqHq9qicQ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0af4d7727e5414c7ef5c"
+  },
+  "title": "MIND BLANK",
+  "image": "XaLFcEv5FadAOWekXDPdA2g4.jpg",
+  "video": "https://www.youtube.com/embed/nbsWG8ItGmk",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0b16d7727e5414c7ef5d"
+  },
+  "title": "POLEN",
+  "image": "wc5s0ZnC0lv4noPZIkcdfB7U.jpg",
+  "video": "https://www.youtube.com/embed/wq-57DQvvVo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f2e0b3ed7727e5414c7ef5e"
+  },
+  "title": "DE ESTO SE TRATA",
+  "image": "g9kTeUViviOg-znSgeSVjfWH.jpg",
+  "video": "https://www.youtube.com/embed/PWGmaVkLCFA",
+  "__v": 0
+}]
